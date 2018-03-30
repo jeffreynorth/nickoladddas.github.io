@@ -1,6 +1,7 @@
-### life is one funny mother fucker
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### convicted felon 
 
+i'm a convicted felon which means i'm unemployable by like, fourty-percent of the country. 
+regardless of any skills i may posess, because of my record i'm immediately nullified as an effective canidate.
 ```markdown
 Syntax highlighted code block
 
