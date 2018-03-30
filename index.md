@@ -1,11 +1,4 @@
-at 27 my biggest fear was losing it all
-
-thirty shows a month and i still wont buy me that lexus 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### life is one funny mother fucker
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
